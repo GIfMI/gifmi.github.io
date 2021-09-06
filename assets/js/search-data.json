@@ -1,0 +1,566 @@
+{"0": {
+    "doc": "Welcome to the support site",
+    "title": "{{page.title}}",
+    "content": "This page contains a list of mathematical and physics concepts utilized by the Doctoral Schools on Basic MRI. Going through this list is without obligation, but knowledge of these topics is strongly recommended to be able to follow the sessions smoothly. Each topic contains videos with theoretical explanation and interactive demos for illustration. The videos elaborate on a topic in a intuitive way without using lots of mathematics. The demos aim at illustrating interactively the concepts explained in the videos. The pages are order chronologically but you are free to skip already acquired knowledge. Most demos are hosted by the Wolfram Demonstrations Project. They work in the browser but they take some time to load and run slowly. To speed up performance, we suggest to install the Wolfram Player on your computer and download and run the demos offline. The Wolfram demos can be downloaded in two ways: . | click on the title of the demo to browse to the main website and click Download to Desktop | click on the stacked dashes icon below the demo and select Download | . You can run the demo with the Wolfram Player by doubleclicking on the file. If a demo is not visible, the author disabled embedding so just click the link to redirect to the original webpage. An important remark: don't panic if you do not understand something. The videos below often give more information than needed. ",
+    "url": "https://gifmi.github.io/",
+    "relUrl": "/"
+  },"1": {
+    "doc": "Welcome to the support site",
+    "title": "Welcome to the support site",
+    "content": " ",
+    "url": "https://gifmi.github.io/",
+    "relUrl": "/"
+  },"2": {
+    "doc": "01 - Sine and Cosine",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine/",
+    "relUrl": "/subjects/sine_and_cosine/"
+  },"3": {
+    "doc": "01 - Sine and Cosine",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine/",
+    "relUrl": "/subjects/sine_and_cosine/"
+  },"4": {
+    "doc": "01 - Sine and Cosine",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine/",
+    "relUrl": "/subjects/sine_and_cosine/"
+  },"5": {
+    "doc": "01 - Sine and Cosine",
+    "title": "01 - Sine and Cosine",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine/",
+    "relUrl": "/subjects/sine_and_cosine/"
+  },"6": {
+    "doc": "02 - Vectors vs scalars",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/vectors_vs_scalars/",
+    "relUrl": "/subjects/vectors_vs_scalars/"
+  },"7": {
+    "doc": "02 - Vectors vs scalars",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/vectors_vs_scalars/",
+    "relUrl": "/subjects/vectors_vs_scalars/"
+  },"8": {
+    "doc": "02 - Vectors vs scalars",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/vectors_vs_scalars/",
+    "relUrl": "/subjects/vectors_vs_scalars/"
+  },"9": {
+    "doc": "02 - Vectors vs scalars",
+    "title": "02 - Vectors vs scalars",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/vectors_vs_scalars/",
+    "relUrl": "/subjects/vectors_vs_scalars/"
+  },"10": {
+    "doc": "03 - Labeling vectors and adding",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/labeling_vectors_and_adding/",
+    "relUrl": "/subjects/labeling_vectors_and_adding/"
+  },"11": {
+    "doc": "03 - Labeling vectors and adding",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/labeling_vectors_and_adding/",
+    "relUrl": "/subjects/labeling_vectors_and_adding/"
+  },"12": {
+    "doc": "03 - Labeling vectors and adding",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/labeling_vectors_and_adding/",
+    "relUrl": "/subjects/labeling_vectors_and_adding/"
+  },"13": {
+    "doc": "03 - Labeling vectors and adding",
+    "title": "03 - Labeling vectors and adding",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/labeling_vectors_and_adding/",
+    "relUrl": "/subjects/labeling_vectors_and_adding/"
+  },"14": {
+    "doc": "04 - X and Y components of vectors",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/x_and_y_components_of_vectors/",
+    "relUrl": "/subjects/x_and_y_components_of_vectors/"
+  },"15": {
+    "doc": "04 - X and Y components of vectors",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/x_and_y_components_of_vectors/",
+    "relUrl": "/subjects/x_and_y_components_of_vectors/"
+  },"16": {
+    "doc": "04 - X and Y components of vectors",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/x_and_y_components_of_vectors/",
+    "relUrl": "/subjects/x_and_y_components_of_vectors/"
+  },"17": {
+    "doc": "04 - X and Y components of vectors",
+    "title": "04 - X and Y components of vectors",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/x_and_y_components_of_vectors/",
+    "relUrl": "/subjects/x_and_y_components_of_vectors/"
+  },"18": {
+    "doc": "05 - 3D vectors annotation",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/3d_vectors_annotation/",
+    "relUrl": "/subjects/3d_vectors_annotation/"
+  },"19": {
+    "doc": "05 - 3D vectors annotation",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/3d_vectors_annotation/",
+    "relUrl": "/subjects/3d_vectors_annotation/"
+  },"20": {
+    "doc": "05 - 3D vectors annotation",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/3d_vectors_annotation/",
+    "relUrl": "/subjects/3d_vectors_annotation/"
+  },"21": {
+    "doc": "05 - 3D vectors annotation",
+    "title": "05 - 3D vectors annotation",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/3d_vectors_annotation/",
+    "relUrl": "/subjects/3d_vectors_annotation/"
+  },"22": {
+    "doc": "06 - Introduction to the unit circle",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_the_unit_circle/",
+    "relUrl": "/subjects/introduction_to_the_unit_circle/"
+  },"23": {
+    "doc": "06 - Introduction to the unit circle",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_the_unit_circle/",
+    "relUrl": "/subjects/introduction_to_the_unit_circle/"
+  },"24": {
+    "doc": "06 - Introduction to the unit circle",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_the_unit_circle/",
+    "relUrl": "/subjects/introduction_to_the_unit_circle/"
+  },"25": {
+    "doc": "06 - Introduction to the unit circle",
+    "title": "06 - Introduction to the unit circle",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_the_unit_circle/",
+    "relUrl": "/subjects/introduction_to_the_unit_circle/"
+  },"26": {
+    "doc": "07 - Degrees vs Radians",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/degrees_vs_radians/",
+    "relUrl": "/subjects/degrees_vs_radians/"
+  },"27": {
+    "doc": "07 - Degrees vs Radians",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/degrees_vs_radians/",
+    "relUrl": "/subjects/degrees_vs_radians/"
+  },"28": {
+    "doc": "07 - Degrees vs Radians",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/degrees_vs_radians/",
+    "relUrl": "/subjects/degrees_vs_radians/"
+  },"29": {
+    "doc": "07 - Degrees vs Radians",
+    "title": "07 - Degrees vs Radians",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/degrees_vs_radians/",
+    "relUrl": "/subjects/degrees_vs_radians/"
+  },"30": {
+    "doc": "08 - Cartesian coordinate system",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/cartesian_coordinate_system/",
+    "relUrl": "/subjects/cartesian_coordinate_system/"
+  },"31": {
+    "doc": "08 - Cartesian coordinate system",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/cartesian_coordinate_system/",
+    "relUrl": "/subjects/cartesian_coordinate_system/"
+  },"32": {
+    "doc": "08 - Cartesian coordinate system",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/cartesian_coordinate_system/",
+    "relUrl": "/subjects/cartesian_coordinate_system/"
+  },"33": {
+    "doc": "08 - Cartesian coordinate system",
+    "title": "08 - Cartesian coordinate system",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/cartesian_coordinate_system/",
+    "relUrl": "/subjects/cartesian_coordinate_system/"
+  },"34": {
+    "doc": "09 - Polar coordinate system",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/polar_coordinate_system/",
+    "relUrl": "/subjects/polar_coordinate_system/"
+  },"35": {
+    "doc": "09 - Polar coordinate system",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/polar_coordinate_system/",
+    "relUrl": "/subjects/polar_coordinate_system/"
+  },"36": {
+    "doc": "09 - Polar coordinate system",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/polar_coordinate_system/",
+    "relUrl": "/subjects/polar_coordinate_system/"
+  },"37": {
+    "doc": "09 - Polar coordinate system",
+    "title": "09 - Polar coordinate system",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/polar_coordinate_system/",
+    "relUrl": "/subjects/polar_coordinate_system/"
+  },"38": {
+    "doc": "10 - The Imaginary unit",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/imaginary_unit/",
+    "relUrl": "/subjects/imaginary_unit/"
+  },"39": {
+    "doc": "10 - The Imaginary unit",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/imaginary_unit/",
+    "relUrl": "/subjects/imaginary_unit/"
+  },"40": {
+    "doc": "10 - The Imaginary unit",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/imaginary_unit/",
+    "relUrl": "/subjects/imaginary_unit/"
+  },"41": {
+    "doc": "10 - The Imaginary unit",
+    "title": "10 - The Imaginary unit",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/imaginary_unit/",
+    "relUrl": "/subjects/imaginary_unit/"
+  },"42": {
+    "doc": "11 - Introduction to complex numbers",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_complex_numbers/",
+    "relUrl": "/subjects/introduction_to_complex_numbers/"
+  },"43": {
+    "doc": "11 - Introduction to complex numbers",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_complex_numbers/",
+    "relUrl": "/subjects/introduction_to_complex_numbers/"
+  },"44": {
+    "doc": "11 - Introduction to complex numbers",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_complex_numbers/",
+    "relUrl": "/subjects/introduction_to_complex_numbers/"
+  },"45": {
+    "doc": "11 - Introduction to complex numbers",
+    "title": "11 - Introduction to complex numbers",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/introduction_to_complex_numbers/",
+    "relUrl": "/subjects/introduction_to_complex_numbers/"
+  },"46": {
+    "doc": "12 - Complex number in rectangular form",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_rectangular_form/",
+    "relUrl": "/subjects/complex_number_in_rectangular_form/"
+  },"47": {
+    "doc": "12 - Complex number in rectangular form",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_rectangular_form/",
+    "relUrl": "/subjects/complex_number_in_rectangular_form/"
+  },"48": {
+    "doc": "12 - Complex number in rectangular form",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_rectangular_form/",
+    "relUrl": "/subjects/complex_number_in_rectangular_form/"
+  },"49": {
+    "doc": "12 - Complex number in rectangular form",
+    "title": "12 - Complex number in rectangular form",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_rectangular_form/",
+    "relUrl": "/subjects/complex_number_in_rectangular_form/"
+  },"50": {
+    "doc": "13 - Complex number in polar form",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_polar_form/",
+    "relUrl": "/subjects/complex_number_in_polar_form/"
+  },"51": {
+    "doc": "13 - Complex number in polar form",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_polar_form/",
+    "relUrl": "/subjects/complex_number_in_polar_form/"
+  },"52": {
+    "doc": "13 - Complex number in polar form",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_polar_form/",
+    "relUrl": "/subjects/complex_number_in_polar_form/"
+  },"53": {
+    "doc": "13 - Complex number in polar form",
+    "title": "13 - Complex number in polar form",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/complex_number_in_polar_form/",
+    "relUrl": "/subjects/complex_number_in_polar_form/"
+  },"54": {
+    "doc": "14 - Euler's formula",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/eulers_formula/",
+    "relUrl": "/subjects/eulers_formula/"
+  },"55": {
+    "doc": "14 - Euler's formula",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/eulers_formula/",
+    "relUrl": "/subjects/eulers_formula/"
+  },"56": {
+    "doc": "14 - Euler's formula",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/eulers_formula/",
+    "relUrl": "/subjects/eulers_formula/"
+  },"57": {
+    "doc": "14 - Euler's formula",
+    "title": "14 - Euler's formula",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/eulers_formula/",
+    "relUrl": "/subjects/eulers_formula/"
+  },"58": {
+    "doc": "15 - Constructing a sine and cosine graph from rotating vector in the unit circle",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine_graph/",
+    "relUrl": "/subjects/sine_and_cosine_graph/"
+  },"59": {
+    "doc": "15 - Constructing a sine and cosine graph from rotating vector in the unit circle",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine_graph/",
+    "relUrl": "/subjects/sine_and_cosine_graph/"
+  },"60": {
+    "doc": "15 - Constructing a sine and cosine graph from rotating vector in the unit circle",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine_graph/",
+    "relUrl": "/subjects/sine_and_cosine_graph/"
+  },"61": {
+    "doc": "15 - Constructing a sine and cosine graph from rotating vector in the unit circle",
+    "title": "15 - Constructing a sine and cosine graph from rotating vector in the unit circle",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/sine_and_cosine_graph/",
+    "relUrl": "/subjects/sine_and_cosine_graph/"
+  },"62": {
+    "doc": "16 - Wave parameters - Amplitude, Frequency, Phase, Period, Wavelength",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/wave_parameters/",
+    "relUrl": "/subjects/wave_parameters/"
+  },"63": {
+    "doc": "16 - Wave parameters - Amplitude, Frequency, Phase, Period, Wavelength",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/wave_parameters/",
+    "relUrl": "/subjects/wave_parameters/"
+  },"64": {
+    "doc": "16 - Wave parameters - Amplitude, Frequency, Phase, Period, Wavelength",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/wave_parameters/",
+    "relUrl": "/subjects/wave_parameters/"
+  },"65": {
+    "doc": "16 - Wave parameters - Amplitude, Frequency, Phase, Period, Wavelength",
+    "title": "16 - Wave parameters - Amplitude, Frequency, Phase, Period, Wavelength",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/wave_parameters/",
+    "relUrl": "/subjects/wave_parameters/"
+  },"66": {
+    "doc": "17 - Electromagnetic waves",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/electromagnetic_waves/",
+    "relUrl": "/subjects/electromagnetic_waves/"
+  },"67": {
+    "doc": "17 - Electromagnetic waves",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/electromagnetic_waves/",
+    "relUrl": "/subjects/electromagnetic_waves/"
+  },"68": {
+    "doc": "17 - Electromagnetic waves",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/electromagnetic_waves/",
+    "relUrl": "/subjects/electromagnetic_waves/"
+  },"69": {
+    "doc": "17 - Electromagnetic waves",
+    "title": "17 - Electromagnetic waves",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/electromagnetic_waves/",
+    "relUrl": "/subjects/electromagnetic_waves/"
+  },"70": {
+    "doc": "18 - Superposition of sine waves",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/superposition_of_sine_waves/",
+    "relUrl": "/subjects/superposition_of_sine_waves/"
+  },"71": {
+    "doc": "18 - Superposition of sine waves",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/superposition_of_sine_waves/",
+    "relUrl": "/subjects/superposition_of_sine_waves/"
+  },"72": {
+    "doc": "18 - Superposition of sine waves",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/superposition_of_sine_waves/",
+    "relUrl": "/subjects/superposition_of_sine_waves/"
+  },"73": {
+    "doc": "18 - Superposition of sine waves",
+    "title": "18 - Superposition of sine waves",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/superposition_of_sine_waves/",
+    "relUrl": "/subjects/superposition_of_sine_waves/"
+  },"74": {
+    "doc": "19 - Fourier series",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/fourier_series/",
+    "relUrl": "/subjects/fourier_series/"
+  },"75": {
+    "doc": "19 - Fourier series",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/fourier_series/",
+    "relUrl": "/subjects/fourier_series/"
+  },"76": {
+    "doc": "19 - Fourier series",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/fourier_series/",
+    "relUrl": "/subjects/fourier_series/"
+  },"77": {
+    "doc": "19 - Fourier series",
+    "title": "19 - Fourier series",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/fourier_series/",
+    "relUrl": "/subjects/fourier_series/"
+  },"78": {
+    "doc": "20 - Fourier transform",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/fourier_transform/",
+    "relUrl": "/subjects/fourier_transform/"
+  },"79": {
+    "doc": "20 - Fourier transform",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/fourier_transform/",
+    "relUrl": "/subjects/fourier_transform/"
+  },"80": {
+    "doc": "20 - Fourier transform",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/fourier_transform/",
+    "relUrl": "/subjects/fourier_transform/"
+  },"81": {
+    "doc": "20 - Fourier transform",
+    "title": "20 - Fourier transform",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/fourier_transform/",
+    "relUrl": "/subjects/fourier_transform/"
+  },"82": {
+    "doc": "21 - Inverse Fourier transform",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/inverse_fourier_transform/",
+    "relUrl": "/subjects/inverse_fourier_transform/"
+  },"83": {
+    "doc": "21 - Inverse Fourier transform",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/inverse_fourier_transform/",
+    "relUrl": "/subjects/inverse_fourier_transform/"
+  },"84": {
+    "doc": "21 - Inverse Fourier transform",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/inverse_fourier_transform/",
+    "relUrl": "/subjects/inverse_fourier_transform/"
+  },"85": {
+    "doc": "21 - Inverse Fourier transform",
+    "title": "21 - Inverse Fourier transform",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/inverse_fourier_transform/",
+    "relUrl": "/subjects/inverse_fourier_transform/"
+  },"86": {
+    "doc": "22 - Discrete Fourier transform",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/discrete_fourier_transform/",
+    "relUrl": "/subjects/discrete_fourier_transform/"
+  },"87": {
+    "doc": "22 - Discrete Fourier transform",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/discrete_fourier_transform/",
+    "relUrl": "/subjects/discrete_fourier_transform/"
+  },"88": {
+    "doc": "22 - Discrete Fourier transform",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/discrete_fourier_transform/",
+    "relUrl": "/subjects/discrete_fourier_transform/"
+  },"89": {
+    "doc": "22 - Discrete Fourier transform",
+    "title": "22 - Discrete Fourier transform",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/discrete_fourier_transform/",
+    "relUrl": "/subjects/discrete_fourier_transform/"
+  },"90": {
+    "doc": "23 - 2D discrete Fourier transform",
+    "title": "{{page.title}}",
+    "content": "{% if page.description %} {{page.description}} {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/2d_discrete_fourier_transform/",
+    "relUrl": "/subjects/2d_discrete_fourier_transform/"
+  },"91": {
+    "doc": "23 - 2D discrete Fourier transform",
+    "title": "Theory",
+    "content": "{% if page.links %} . {% for link in page.links %} | {{ link.title }} | {% endfor %} . {% endif %} {% if page.youtube %} . {% for video in page.youtube %} | {% include youtubePlayer.html id=video.id %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/2d_discrete_fourier_transform/",
+    "relUrl": "/subjects/2d_discrete_fourier_transform/"
+  },"92": {
+    "doc": "23 - 2D discrete Fourier transform",
+    "title": "Demonstration",
+    "content": "{% if page.demos %} . {% for demo in page.demos %} | {{ demo.title }} {% if demo.id %} {% include wolframPlayer.html id=demo.id name=demo.name %} {% endif %} | {% endfor %} . {% endif %} ",
+    "url": "https://gifmi.github.io/subjects/2d_discrete_fourier_transform/",
+    "relUrl": "/subjects/2d_discrete_fourier_transform/"
+  },"93": {
+    "doc": "23 - 2D discrete Fourier transform",
+    "title": "23 - 2D discrete Fourier transform",
+    "content": " ",
+    "url": "https://gifmi.github.io/subjects/2d_discrete_fourier_transform/",
+    "relUrl": "/subjects/2d_discrete_fourier_transform/"
+  }
+}
